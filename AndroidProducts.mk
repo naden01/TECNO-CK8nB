@@ -6,9 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_TECNO-CK8nB.mk
+    $(LOCAL_DIR)/twrp_CK8nB.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_TECNO-CK8nB-user \
-    omni_TECNO-CK8nB-userdebug \
-    omni_TECNO-CK8nB-eng
+    twrp_CK8nB-eng
